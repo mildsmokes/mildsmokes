@@ -1,6 +1,6 @@
  👋 Hi, I’m @mildsmokes
 - 👀 I’m interested in blockchains
-- 🌱 I’m currently learning smamrt contract creation
+- 🌱 I’m currently learning smart contract creation
 - 💞️ I’m looking to collaborate on getting to know move language
 - 📫 How to reach me twitter @silvermirage1
 
